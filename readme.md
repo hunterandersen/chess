@@ -1,18 +1,25 @@
 # Chess Youtube Channels
 ## Quick Reference
-- ChessNetwork
-- agadmator
-- Chess.com
-- Chess24
-- Chessbrahs
-- BotezLive
-- Gotham Chess
-- Anna Cramling
-- IM Eric Rosen
-- GingerGM
-- Daniel Naroditsky
-- GM Andrew Tang (penguingm0)
-- Hikaru Nakamura
+- [Chessnetwork](https://www.youtube.com/@ChessNetwork)
+- [agadmator](https://www.youtube.com/@agadmator)
+- [Chess.com](https://www.youtube.com/@chess)
+- [Chess24](https://www.youtube.com/@Chess24)
+- [Chessbrah](https://www.youtube.com/@chessbrah)
+- [BotezLive](https://www.youtube.com/@BotezLive)
+- [Gotham Chess](https://www.youtube.com/@GothamChess)
+- [Anna Cramling](https://www.youtube.com/@AnnaCramling)
+- [Eric Rosen](https://www.youtube.com/@eric-rosen)
+- [GingerGM](https://www.youtube.com/@GingerGM)
+- [Daniel Naroditsky](https://www.youtube.com/@DanielNaroditskyGM)
+- [GM Andrew Tang (penguingm0)](https://www.youtube.com/@penguingm1)
+- [Hikaru Nakamura](https://www.youtube.com/@GMHikaru)
+
+## Differences between Classical, Blitz, and Bullet Chess
+| Classical | Blitz | Bullet | UltraBullet |
+|---------------------|--------------------|--------------------|--------------------|
+| > 15 minutes | > 5 < 15 min | < 5 min | < 1 min |
+| "Slow Chess" | "Fast Chess" | "Speed Chess" | "WTF Chess" |
+| What most people think of when they think of chess | What most people would actually enjoy playing | What I enjoy watching | Also what I enjoy watching |
 
 ## Noteworthy Chess Names
 - Magnus Carlsen
@@ -27,13 +34,6 @@
     - Arguably the best to have ever played
 - Mikhail Tal
     - Arguably the best to have ever played up to his time
-
-## Differences between Classical, Blitz, and Bullet Chess
-| Classical | Blitz | Bullet | UltraBullet |
-|---------------------|--------------------|--------------------|--------------------|
-| > 15 minutes | > 5 < 15 min | < 5 min | < 1 min |
-| "Slow Chess" | "Fast Chess" | "Speed Chess" | "WTF Chess" |
-| What most people think of when they think of chess | What most people would actually enjoy playing | What I enjoy watching | Also what I enjoy watching |
 
 ### Every youtube channel will have the people (personalities) that will largely determine whether or not you enjoy their content, but there are a handful who focus so directly on chess that the personality is largely irrelevant
 - Chessnetwork
