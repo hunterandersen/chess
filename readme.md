@@ -15,9 +15,9 @@
 - [Hikaru Nakamura](https://www.youtube.com/@GMHikaru)
 
 ## Differences between Classical, Blitz, and Bullet Chess
-| Classical | Blitz | Bullet | UltraBullet |
+| Classical | Rapid | Blitz | Bullet |
 |---------------------|--------------------|--------------------|--------------------|
-| > 15 minutes | > 5 < 15 min | < 5 min | < 1 min |
+| t > 30 min | 10 > t < 30 min | 5 > t < 10 min | 3 > t < 5 min |
 | "Slow Chess" | "Fast Chess" | "Speed Chess" | "WTF Chess" |
 | What most people think of when they think of chess | What most people would actually enjoy playing | What I enjoy watching | Also what I enjoy watching |
 
